@@ -1,4 +1,4 @@
-# AI Hands-on Course: Beginner's Lecture Notes
+# AI Hands-on Course: Day 1 Lecture Notes
 
 Welcome to the AI Hands-on Course! This document will serve as your guide and lecture notes for today's session. It is designed to help you follow along with the schedule and track your progress.
 
