@@ -8,12 +8,12 @@ Welcome to the AI Hands-on Course! This document will serve as your guide and le
 
 | Time | Session | Key Activities |
 | :--- | :--- | :--- |
-| **10:30 - 10:40** | **1. Check Dev Environment** | Setup Ollama, Qwen3.5, and test Python code. |
-| **10:40 - 10:55** | **2. Overview** | LLM evolution, Document formats, Vibe Coding. |
-| **10:55 - 11:40** | **3. Vibe Coding via Google AI Studio**| Build ChatBot, add OCR, implement RAG. |
-| **11:40 - 14:00** | **Lunch Break** | Rest and recharge! |
-| **14:00 - 14:45** | **4. Vibe Coding via AntiGravity** | MD/PDF conversion, ChatBot with Ollama & RAG. |
-| **15:00 - 15:25** | **5. Showcase** | Present apps, Wrap up. |
+| **10:30 - 10:40** | **1. Check Dev Environment** | 1.1. Ollama + Qwen3.5:0.8b => Try to Chat<br>1.2. AntiGravity + Python => Try to Create & Execute Python Code |
+| **10:40 - 10:55** | **2. Overview** | 2.1. Evolution of Large Language Models<br>2.2. Comparison of Document Formats<br>2.3. Understanding of Vibe Coding |
+| **10:55 - 12:00** | **3. Vibe Coding via Google AI Studio**| 3.1. Create Google API Key<br>3.2. Build a ChatBot App<br>3.3. Upgrade the ChatBot App: OCR<br>3.4. Upgrade the ChatBot App: RAG |
+| **12:00 - 14:00** | **Lunch Break** at Delizia (3rd Floor of ICC) | Rest and recharge! |
+| **14:00 - 15:00** | **4. Vibe Coding via AntiGravity** | 4.1. Create Document Conversion Functions<br>4.2. Build a ChatBot App based on Google API<br>4.3. Upgrade the ChatBot App: OCR based on Google API<br>4.4. Upgrade the ChatBot App: LLM & OCR based on Ollama API<br>4.5. Upgrade the ChatBot App: RAG |
+| **15:00 - 15:25** | **5. Showcase** | 5.1. Introduce your app via Google Meet<br>5.2. Wrap up |
 
 ---
 
@@ -110,7 +110,7 @@ graph LR
 
 ---
 
-*Lunch Break*
+## **Lunch Break** at Delizia (3rd Floor of ICC)
 
 ---
 
