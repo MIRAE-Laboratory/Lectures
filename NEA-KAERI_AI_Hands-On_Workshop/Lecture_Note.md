@@ -27,11 +27,11 @@ graph LR
     C --> D[Local AI Coding<br>AntiGravity & Ollama]
     D --> E[Showcase & Wrap Up]
     
-    style A fill:#e1f5fe,stroke:#0288d1
-    style B fill:#fff3e0,stroke:#f57c00
-    style C fill:#e8f5e9,stroke:#388e3c
-    style D fill:#fce4ec,stroke:#c2185b
-    style E fill:#f3e5f5,stroke:#7b1fa2
+    style A fill:#e1f5fe,stroke:#0288d1,color:#000000
+    style B fill:#fff3e0,stroke:#f57c00,color:#000000
+    style C fill:#e8f5e9,stroke:#388e3c,color:#000000
+    style D fill:#fce4ec,stroke:#c2185b,color:#000000
+    style E fill:#f3e5f5,stroke:#7b1fa2,color:#000000
 ```
 
 ### ChatBot Application Architecture
@@ -44,12 +44,12 @@ graph LR
     RAG --> LLM[Large Language Model<br>Google API / Ollama]
     LLM --> Output[ChatBot Response]
 
-    style Input fill:#fafafa,stroke:#212121
-    style Doc fill:#fff9c4,stroke:#fbc02d
-    style OCR fill:#bbdefb,stroke:#1976d2
-    style RAG fill:#c8e6c9,stroke:#388e3c
-    style LLM fill:#ffe0b2,stroke:#f57c00
-    style Output fill:#d1c4e9,stroke:#512da8
+    style Input fill:#fafafa,stroke:#212121,color:#000000
+    style Doc fill:#fff9c4,stroke:#fbc02d,color:#000000
+    style OCR fill:#bbdefb,stroke:#1976d2,color:#000000
+    style RAG fill:#c8e6c9,stroke:#388e3c,color:#000000
+    style LLM fill:#ffe0b2,stroke:#f57c00,color:#000000
+    style Output fill:#d1c4e9,stroke:#512da8,color:#000000
 ```
 
 ---
